@@ -1,0 +1,1 @@
+jar -cvf BlueFrameClient.jar BlueFrame\BlueClient.class  BlueFrame\Client.class BlueFrame\BlueClientUser.class

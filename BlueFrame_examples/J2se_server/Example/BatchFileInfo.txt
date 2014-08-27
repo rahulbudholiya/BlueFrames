@@ -1,0 +1,2 @@
+cmp.bat: Compiles server\Server.java
+rn.bat: Starts Server

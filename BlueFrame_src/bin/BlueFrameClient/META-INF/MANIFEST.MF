@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Message: BlueFrame Framework
+Created-By: TMSoftwares Software Division
+

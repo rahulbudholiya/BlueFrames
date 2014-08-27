@@ -1,0 +1,5 @@
+cmpClient.bat: compiles EchoClient.java
+pre.bat: preverify compiled class
+jarc.bat: creats a final jar package
+
+build.bat: does all the jobs listed above in one call
